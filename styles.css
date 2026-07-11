@@ -171,6 +171,37 @@ h2.center { text-align: center; margin-bottom: 50px; }
   border: 10px solid #fff; box-shadow: var(--shadow-soft); position: relative; z-index: 2;
 }
 .hero-circle img { width: 100%; height: 100%; object-fit: cover; }
+/* sad-happy animation */
+.hero-circle {
+  position: relative;
+  width: 640px;
+  height: 640px;
+}
+
+.hero-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%; /* remove if you don't want a circle crop */
+}
+
+.hero-img--base {
+  z-index: 1;
+}
+
+.hero-img--overlay {
+  z-index: 2;
+  animation: fadeToHappy 2s ease-in-out infinite alternate;
+  /* 1.5s = delay before fade starts, 1.2s = fade duration */
+}
+
+@keyframes fadeToHappy {
+  from { opacity: 1; }
+  to   { opacity: 0; }
+}
 
 .floating-shape { position: absolute; border-radius: 50%; opacity: .5; z-index: 1; }
 .shape-1 { width: 80px; height: 80px; background: #CDEFFC; top: 0; left: 10%; animation: float 5s ease-in-out infinite; }
