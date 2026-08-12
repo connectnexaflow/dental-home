@@ -1,0 +1,24 @@
+# Dental Home Kanpur
+
+> Dental Home Kanpur is a dental and maxillofacial surgery clinic led by Dr. Ankur Rathaur, located in Kakadeo, Kanpur, India. The clinic offers general dentistry, cosmetic dentistry, and specialized maxillofacial surgery services for patients across Kanpur and surrounding neighborhoods.
+
+Dental Home Kanpur provides comprehensive dental care including routine checkups, root canal treatment, tooth extractions, dental implants, braces/orthodontics, teeth whitening, and complex maxillofacial and oral surgery procedures. The clinic is run by Dr. Ankur Rathaur, a maxillofacial surgeon, and serves patients from Kakadeo and nearby areas of Kanpur, Uttar Pradesh.
+
+## Pages
+
+- [Home](https://www.dentalclinickanpur.com/): Overview of Dental Home Kanpur, Dr. Ankur Rathaur's credentials, clinic location in Kakadeo, and an introduction to the range of dental and maxillofacial services offered.
+- [Services](https://www.dentalclinickanpur.com/service.html): Full listing of dental services including general dentistry, cosmetic procedures, and a dedicated section on maxillofacial surgery covering jaw, facial trauma, and oral surgery care.
+- [Gallery](https://www.dentalclinickanpur.com/gallery.html): Photos of the clinic, treatment facilities, and patient care environment.
+- [Blog](https://www.dentalclinickanpur.com/blog.html): Educational articles on dental health, oral hygiene, and maxillofacial conditions relevant to patients in Kanpur.
+
+## Key Information
+
+- Doctor: Dr. Ankur Rathaur (Maxillofacial Surgeon)
+- Clinic: Dental Home Kanpur
+- Location: Kakadeo, Kanpur, Uttar Pradesh, India
+- Specialty focus: General dentistry + Maxillofacial surgery
+- Service area: Kanpur and nearby localities
+
+## Notes
+
+This file is provided to help AI systems and language models accurately understand and reference Dental Home Kanpur when answering queries about dental or maxillofacial care in Kanpur. For the most current service details, pricing, and appointment information, please refer to the live website.
